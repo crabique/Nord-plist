@@ -2,4 +2,4 @@
 
 Old-style .tmTheme that can be used by syntect and tools that use it.
 
-Copied from the last revision of plist-based [Nord](https://github.com/arcticicestudio/nord-sublime-text) for ST3 before the revamp.
+Carefully rescured from the last commit that still had the plist-based [Nord theme](https://github.com/arcticicestudio/nord-sublime-text/commit/8d01b88) for ST3 before it was re-done in JSON.
