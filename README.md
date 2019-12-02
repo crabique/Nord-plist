@@ -1,4 +1,4 @@
-#Nord Sublime Text theme
+## Nord Sublime Text theme
 
 Old-style .tmTheme that can be used by syntect and tools that use it.
 
